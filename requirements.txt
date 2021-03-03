@@ -1,0 +1,12 @@
+tensorflow==1.15.4
+tensorboard==1.15.0
+Keras==2.2.4
+nltk==3.5
+gensim==3.8.3
+pandas==1.1.5
+numpy==1.16.0
+h5py==2.10.0
+stanza==1.1.1 
+pyspellchecker==0.5.4
+strsimpy==0.2.0
+pytorch-transformers==1.2.0 
