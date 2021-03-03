@@ -28,4 +28,4 @@ Topic Modelling:  {'topics': ['learn', 'python', 'easi'], 'topic_distance': {'ea
 ('What can make python easy to learn?', 'How can you make python easy to learn?', 59.26,91.50, 'is_similar', 84.93150684931507, {'What can make python easy to learn?': {'verb': 25.0, 'pron': 12.5, 'aux': 12.5, 'noun': 12.5, 'adj': 12.5, 'part': 12.5, 'punct': 12.5}, 'How can you make python easy to learn?': {'verb': 22.22, 'adv': 11.11, 'aux': 11.11, 'pron': 11.11, 'noun': 11.11, 'adj': 11.11, 'part': 11.11, 'punct': 11.11}}, {'topics': ['learn', 'python', 'easi'], 'topic_distance': {'easi-learn': 3, 'easi-python': 6, 'learn-python': 5}})
 ```
 
-### Author: Shivani Tyagi@Scanta Inc.# Text-similarity
+### Author: Shivani Tyagi # Text-similarity
