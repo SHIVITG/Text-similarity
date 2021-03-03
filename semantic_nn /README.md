@@ -39,4 +39,4 @@ if __name__ == "__main__":
 1. [Siamese Recurrent Architectures for Learning Sentence Similarity (2016)](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12195)
 2. Inspired from Tensorflow Implementation of  https://github.com/dhwajraj/deep-siamese-text-similarity
 
-### Author: Shivani Tyagi@Scanta Inc.
+### Author: Shivani Tyagi
